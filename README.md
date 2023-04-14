@@ -17,7 +17,9 @@ aimed to determined whether income exceeds $50K/yr based on census data. Also kn
 
 ### Methods
 Data Cleaning
+
 Exploratory Analysis
+
 Five Prediction Models 
 
 ### Results
