@@ -36,7 +36,8 @@ It can be observed that Females are more subjective to the Annual income Below_5
 
 **'Distribution of Annual Salary**
 
-![image](https://user-images.githubusercontent.com/123722205/231783046-43a5bb02-bbd3-480d-b0ae-28ec316b99d3.png)
+![image](https://user-images.githubusercontent.com/123722205/232229649-a64df34e-09f2-46cd-92c9-c69bb528d364.png)
+
 
 It can be observed that the greatest number of persons earn Below_50k Dollars
 
