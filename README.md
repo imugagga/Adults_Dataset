@@ -52,6 +52,9 @@ The model has been  evaluated on the Metrics
 ### Recommendation.
 While there are more models attached, I highly recommend the use of the Random Forest Model on the dataset as it makes prediuctions with a more accurate predictions 
 
+Summary of Fi scores of Different Models
+![image](https://user-images.githubusercontent.com/123722205/233099694-00aee471-6184-48f0-b8b6-7b86db09641a.png)
+
 ### Limitations & Next Steps
 The Model is  not 100% accurate however it can be tuned further using the various model hyper parameters to give more accurate predictions.
 
